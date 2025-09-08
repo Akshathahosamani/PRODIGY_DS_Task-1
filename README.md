@@ -3,29 +3,39 @@
 📓 Task-01: Data Visualization with Bar Chart or Histogram
 
 🔹 Objective
+
 The aim of this task is to visualize the distribution of categorical or continuous variables using bar charts and histograms.
 
 Examples:
 Distribution of ages in a population
+
 Distribution of genders in a population
+
 Distribution of population across countries
 
 🔹 Dataset
+
 We will use the World Bank Population Dataset:
 👉 World Bank Population Data
+
 This dataset contains population data by country and year, useful for demographic analysis.
 
 🔹 Workflow in Jupyter Notebook
 
 Load the dataset → Import the World Bank data into Jupyter Notebook.
+
 Preprocess data → Handle missing values, filter necessary columns.
-Visualization → Create bar charts for categorical comparisons (e.g., population by country).
-                Create histograms for continuous variables (e.g., distribution of population values).
+
+Visualization →  Create bar charts for categorical comparisons (e.g., population by country).
+
+   Create histograms for continuous variables (e.g., distribution of population values).
+                
 Analysis → Interpret patterns, outliers, and trends.
 
 🔹 Expected Output
 
 Bar Chart → Top 10 most populous countries in the latest year.
+
 Histogram → Global population distribution across countries.
 
 🔹 Tools & Libraries
