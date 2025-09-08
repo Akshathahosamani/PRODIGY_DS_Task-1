@@ -2,7 +2,7 @@
 
 📓 Task-01: Data Visualization with Bar Chart or Histogram
 
-#🔹 Objective
+🔹 Objective
 
 The aim of this task is to visualize the distribution of categorical or continuous variables using bar charts and histograms.
 
