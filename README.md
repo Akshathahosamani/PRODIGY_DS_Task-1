@@ -1,10 +1,4 @@
-# PRODIGY_infotech_Data science_Internship_Task-1
 
-Great idea 👍 — if you want your **README.md** for **Task-01** to look more detailed and professional, you can expand it with extra sections like **Problem Statement, Approach, Results, and How to Run**.
-
-Here’s the enriched version for you:
-
----
 
 # Prodigy InfoTech Data Science Internship Task 1
 
