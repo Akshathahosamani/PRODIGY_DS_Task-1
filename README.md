@@ -78,5 +78,8 @@ It contains **population records across countries from 2001 to 2022**, making it
 
 ---
 
+👩‍💻 **Developed by:** Akshatha Hosamani  
+📅 Internship: Prodigy InfoTech – Data Science
+
 
 
