@@ -3,7 +3,7 @@
 # Prodigy InfoTech Data Science Internship Task 1
 
 <br>  
-<img src="https://github.com/your-username/PRODIGY_DS_01/blob/main/ds1.png">  
+<img src="https://github.com/Akshathahosamani/PRODIGY_DS_Task-1/blob/main/DS-1.png">  
 
 Welcome to my submission for **Task 1** of the Data Science Internship at **Prodigy Infotech**.
 In this task, I performed **Exploratory Data Analysis (EDA)** on the World Bank population dataset, focusing on **creating visualizations** that represent the distribution of categorical and continuous variables.
